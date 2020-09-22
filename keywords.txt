@@ -1,0 +1,17 @@
+If
+Then
+Else
+Sub
+End
+Goto
+Do
+Loop
+Print
+Save
+Dim
+Public
+Private
+Function
+Get
+Set
+Let
